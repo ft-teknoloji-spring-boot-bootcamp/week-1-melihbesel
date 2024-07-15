@@ -1,27 +1,8 @@
 <!-- ABOUT THE PROJECT -->
-## Homework Questions
-
-### Question 1
-- Java dünyasındaki framework’ler ve çözdükleri problemler nedir? Kod Örneklendirini
-  de içermelidir. (10 PUAN)
-
-#### [Answer 1](src/week1/question1/README.md)
-
-
-### Question 2
-- SOA - Web Service - Restful Service - HTTP methods kavramlarını örneklerle
-  açıklayınız. (10 PUAN)
-
-#### [Answer 2](src/week1/question2/README.md)
-
-
-### Question 3
-- Singleton ve Factory pattern kullanarak projedeki objeleri oluşturun. (20 Puan)
-
-#### [Answer 3](src/week1/question3/README.md)
-
+## Project Description
 
 ### Question 4
+
 Bir müşteri, ürün, sipariş ve fatura objeleri olacak şekilde online alışveriş sistemi tasarlayın. (30 PUAN)
 
 - Bir müşteri birden fazla sipariş verebilir.
@@ -41,38 +22,31 @@ Bir müşteri, ürün, sipariş ve fatura objeleri olacak şekilde online alış
   hesaplayın,
 - Sistemdeki 1500 TL üzerindeki faturaları listeleyin
 
-#### [Answer 4](src/week1/question4/README.md)
+### Answer
 
+[Question4Main.java](main/java/Question4Main.java)
 
-### Question 5
+### Output Screenshots
 
-BlogHub uygulamasına aşağıdaki özellikleri ekleyin. (30 PUAN)
-
-- Password bilgisini SHA-512 ile hashleyin.
-- Blog istatistiklerini hesaplayan ve gösteren bir kodu yazın.
-- Blog’ları oluşturulma tarihine göre, yorum sayısına göre ve okunma sayısına göre artan
-  ve azalan olacak şekilde listeleyen kodu yazın
-
-#### [Answer 5](src/week1/question5/README.md)
-
+![Question4.png](../../../output/images/week1/Question4.png)
 
 
 <!-- TECHNOLOGIES -->
 ### Technologies
 
+<a href="https://www.java.com/" target="_blank"><img src="/output/images/logos/java.svg" alt="Java" height="90" /></a>
 
-<a href="https://www.java.com/" target="_blank"><img src="output/images/logos/java.svg" alt="Java" height="90" /></a>  
 
 
 
 <!-- OUTPUT SCREENSHOTS -->
+### Output Screenshots
 
-### Codes & Outputs of Questions
-#### You can find the code, detailed explanations and output screenshots related to the questions in sub folders of week1 directory.
+<img src="/output/images/week1/question4.png" alt="" />
+
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
